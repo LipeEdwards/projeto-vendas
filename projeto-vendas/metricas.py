@@ -11,3 +11,5 @@ print("Receita total:", receita)
 print("Pedidos:", pedidos)
 
 print("Ticket Médio:", receita / pedidos)
+
+print("Hellow Word")
